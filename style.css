@@ -1,14 +1,21 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 body {
-  background-color: aqua;
-  padding: 50px;
+    background-color: aqua;
+    padding: 50px;
 }
 
 h1 {
-  font-size: 15vw;
-  color: bisque;
+    font-size: 15vw;
+    color: bisque;
+}
+nav ul {
+    display: flex;
+    margin: 10px;
+}
+nav ul li {
+    margin-right: 20px;
 }
