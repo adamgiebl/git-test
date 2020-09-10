@@ -4,6 +4,18 @@
   box-sizing: border-box;
 }
 body {
-  background: pink;
+  background-color: aqua;
   padding: 50px;
+}
+
+h1 {
+  font-size: 15vw;
+  color: bisque;
+}
+nav ul {
+  display: flex;
+  margin: 10px;
+}
+nav ul li {
+  margin-right: 20px;
 }
