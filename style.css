@@ -1,4 +1,9 @@
 body {
-    background: pink;
-    padding: 50px;
+    background-color: aqua;
+        padding: 50px;
+}
+
+h1{
+    font-size: 15vw;
+    color:bisque;
 }
